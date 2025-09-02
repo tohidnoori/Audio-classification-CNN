@@ -45,10 +45,17 @@ You can download it directly from [Data](https://drive.google.com/drive/folders/
 ---
 ## Plots
 
-<h3>Training vs Validation Accuracy</h3>
-
-![](https://github.com/tohidnoori/Audio-classification-CNN/blob/main/val-acc.png)
-
-<h3>Confusion Matrix</h3>
-
-![](https://github.com/tohidnoori/Audio-classification-CNN/blob/main/cm.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/tohidnoori/Audio-classification-CNN/blob/main/val-acc.png" width="500" height="400" alt="Hidden layer weight's backpropagation">
+      <br/>
+      <h4>Training vs Validation Accuracy</h4>
+    </td>
+    <td align="center">
+      <img src="https://github.com/tohidnoori/Audio-classification-CNN/blob/main/cm.png" width="500" height="400" alt="Output layer bias backpropagation">
+      <br/>
+      <h4>Confusion Matrix</h4>
+    </td>
+  </tr>
+</table>
