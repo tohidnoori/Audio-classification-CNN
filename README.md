@@ -35,23 +35,20 @@ You can download it directly from [Data](https://drive.google.com/drive/folders/
    - Optimizer: `Adam`  
    - Loss: `SparseCategoricalCrossentropy`  
    - Trained for **50 epochs** with validation split.
-
-5. **Evaluate performance**  
-   - Achieved **~81% test accuracy**.  
-   - Plotted training/validation accuracy.  
-   - Displayed confusion matrix for class predictions.
-
 ---
 
 ## Results 📊
 - **Training Accuracy:** → 100% (final epoch)  
 - **Validation Accuracy:** → ~84% peak  
 - **Test Accuracy:** → **81.25%**  
-- **Confusion Matrix:** Shows classification performance across 4 classes.
 
 ---
+## Plots
 
-## Example Plots
-- Training vs Validation Accuracy  
-- Confusion Matrix  
----
+<h3>Training vs Validation Accuracy</h3>
+
+![](https://github.com/tohidnoori/Audio-classification-CNN/blob/main/val-acc.png)
+
+<h3>Confusion Matrix</h3>
+
+![](https://github.com/tohidnoori/Audio-classification-CNN/blob/main/cm.png)
